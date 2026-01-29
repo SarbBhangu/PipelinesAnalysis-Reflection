@@ -1,3 +1,13 @@
+1. The “Why”
+
+- The most important business reason to use CI/CD is to reduce human error and save time during releases.
+
+- Manual deployments rely too much on memory and consistency from developers, which increases the chance of mistakes.
+
+- Automating the process helps teams release updates faster and with more confidence.
+
+- This also improves product reliability and allows developers to focus more on building features instead of fixing deployment issues.
+
 2. The “How”
 
 - Continuous Integration automatically tests and merges code whenever changes are pushed.
